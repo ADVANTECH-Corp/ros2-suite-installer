@@ -1,4 +1,4 @@
-[x86]
+[x64]
 susi-control=https://iedgeblob.blob.core.windows.net/iedge-public/susi-control-1.0.5-Ubuntu_20.04-x64.run
 aaa=https://iedgeblob.blob.core.windows.net/iedge-public/aaa-1.0.5-Ubuntu_20.04-x64.run
 bbb=https://iedgeblob.blob.core.windows.net/iedge-public/bbb-1.0.5-Ubuntu_20.04-x64.run
