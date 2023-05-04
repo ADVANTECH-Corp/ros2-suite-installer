@@ -1,6 +1,6 @@
 [x64]
-{susi-control}=https://iedgeblob.blob.core.windows.net/iedge-public/device-susi-control/1.0.5/Ubuntu_22.04-x64/susi-control-1.0.5-Ubuntu_22.04-x64.run
 {susi-control-Ubuntu_20.04}=https://iedgeblob.blob.core.windows.net/iedge-public/device-susi-control/1.0.5/Ubuntu_20.04-x64/susi-control-1.0.5-Ubuntu_20.04-x64.run
+{susi-control-Ubuntu_22.04}=https://iedgeblob.blob.core.windows.net/iedge-public/device-susi-control/1.0.5/Ubuntu_22.04-x64/susi-control-1.0.5-Ubuntu_22.04-x64.run
 {edge-converter-ros2-example}=https://iedgeblob.blob.core.windows.net/iedge-public/edge-converter-ros2-example-1.0.1-Ubuntu_20.04-x64.run
 {edge-converter-ros2-include}=https://iedgeblob.blob.core.windows.net/iedge-public/edge-converter-ros2-include-1.0.1-Ubuntu_20.04-x64.run
 {rclnodejs_sample}=https://iedgeblob.blob.core.windows.net/iedge-public/rclnodejs_sample-1.1.0-Ubuntu_20.04-x64.run
