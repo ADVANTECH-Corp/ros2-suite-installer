@@ -32,6 +32,7 @@ edge-converter-ros2-include-1.0.1-Ubuntu_20.04 = https://iedgeblob.blob.core.win
 edge-converter-ros2-lib-1.0.1-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/edge-converter-ros2-lib/edge-converter-ros2-lib-1.0.1-Ubuntu_20.04-imx8.run
 APIGateway-2.0.2-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/APIGateway/APIGateway-2.0.2-Ubuntu_20.04-imx8.run
 DBMService-2.3.0-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/DBMService/DBMService-2.3.0-Ubuntu_20.04-imx8.run
+DBMService-2.3.2-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/DBMService/DBMService-2.3.2-Ubuntu_20.04-imx8.run
 e2i-edge-webconsole-2.0.2-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/eislocalweb/e2i-edge-webconsole-2.0.2-Ubuntu_20.04-imx8.run
 edge-modbusmaster-ros2-node-1.0.1-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/edge-modbusmaster-ros2-node/edge-modbusmaster-ros2-node-1.0.1-Ubuntu_20.04-imx8.run
 edge-opcuaclient-ros2-node-1.0.1-Ubuntu_20.04 = https://iedgeblob.blob.core.windows.net/iedge-public/edge-opcuaclient-ros2-node/edge-opcuaclient-ros2-node-1.0.1-Ubuntu_20.04-imx8.run
